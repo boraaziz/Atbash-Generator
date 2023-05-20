@@ -1,0 +1,11 @@
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\bin\Debug\atbashGenerator.exe.config
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\bin\Debug\atbashGenerator.exe
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\bin\Debug\atbashGenerator.pdb
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.csproj.AssemblyReference.cache
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.csproj.SuggestedBindingRedirects.cache
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.Properties.Resources.resources
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.csproj.GenerateResource.cache
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.csproj.CoreCompileInputs.cache
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.exe
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.pdb
+D:\projects\c#\atbashGenerator\atbashGenerator\atbashGenerator\obj\Debug\atbashGenerator.atbashGenerator.resources
